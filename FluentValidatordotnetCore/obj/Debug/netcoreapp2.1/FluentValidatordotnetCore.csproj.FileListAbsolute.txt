@@ -1,0 +1,11 @@
+C:\Users\Jucinei\source\repos\FluentValidatordotnetCore\FluentValidatordotnetCore\bin\Debug\netcoreapp2.1\FluentValidatordotnetCore.deps.json
+C:\Users\Jucinei\source\repos\FluentValidatordotnetCore\FluentValidatordotnetCore\bin\Debug\netcoreapp2.1\FluentValidatordotnetCore.runtimeconfig.json
+C:\Users\Jucinei\source\repos\FluentValidatordotnetCore\FluentValidatordotnetCore\bin\Debug\netcoreapp2.1\FluentValidatordotnetCore.runtimeconfig.dev.json
+C:\Users\Jucinei\source\repos\FluentValidatordotnetCore\FluentValidatordotnetCore\bin\Debug\netcoreapp2.1\FluentValidatordotnetCore.dll
+C:\Users\Jucinei\source\repos\FluentValidatordotnetCore\FluentValidatordotnetCore\obj\Debug\netcoreapp2.1\FluentValidatordotnetCore.csprojAssemblyReference.cache
+C:\Users\Jucinei\source\repos\FluentValidatordotnetCore\FluentValidatordotnetCore\obj\Debug\netcoreapp2.1\FluentValidatordotnetCore.csproj.CoreCompileInputs.cache
+C:\Users\Jucinei\source\repos\FluentValidatordotnetCore\FluentValidatordotnetCore\obj\Debug\netcoreapp2.1\FluentValidatordotnetCore.AssemblyInfoInputs.cache
+C:\Users\Jucinei\source\repos\FluentValidatordotnetCore\FluentValidatordotnetCore\obj\Debug\netcoreapp2.1\FluentValidatordotnetCore.AssemblyInfo.cs
+C:\Users\Jucinei\source\repos\FluentValidatordotnetCore\FluentValidatordotnetCore\bin\Debug\netcoreapp2.1\FluentValidatordotnetCore.pdb
+C:\Users\Jucinei\source\repos\FluentValidatordotnetCore\FluentValidatordotnetCore\obj\Debug\netcoreapp2.1\FluentValidatordotnetCore.dll
+C:\Users\Jucinei\source\repos\FluentValidatordotnetCore\FluentValidatordotnetCore\obj\Debug\netcoreapp2.1\FluentValidatordotnetCore.pdb
